@@ -1,3 +1,4 @@
+Array
 row = ["1", "2", "3"]
 # Position 1: Left 
 row[0]
