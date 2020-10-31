@@ -63,4 +63,3 @@ row #=> ["6", "X", "8"]
 # Move X to the Position 3, Right
 row[8] = "X"
 row #=> ["6", "7", "x"]
-
