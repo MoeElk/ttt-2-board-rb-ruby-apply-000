@@ -22,7 +22,9 @@ row #=> ["X", "1", "2"]
 row["1"] = "X"
 row #=> ["0", "X", "2"]
 
-
+# Move X to the Position 3, Right
+row["2"] = "X"
+row #=> ["0", "1", "x"]
 row = [ "0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
 # position 1: Left 
 # position 1: Left 
